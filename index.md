@@ -1,3 +1,5 @@
-# Welcome to my blog
+# AppOne
 
-I'm glad you are here. I plan to talk about ...
+## Welcome to my page, I am super new at all of this so I know my site isn't much. 
+
+#### progress, not perfection..
